@@ -14,8 +14,4 @@
 
 # I couldn't find how to screenshot the whole image so i took multiple screenshots that go together.
 
-<img src="homework-1/horiseon images/screenshot1.png">
-
-<img src="homework-1/horiseon images/screenshot2.png">
-
-<img src="homework-1/horiseon images/screenshot3.png">
+![1of3](horiseon images/screenshot1.png?raw=true "screenshot1")
