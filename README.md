@@ -12,10 +12,10 @@
 
 # I gave the images alt tags.
 
-# I couldn't find how to screenshot the whole image so i took multpile screenshot that go together.
+# I couldn't find how to screenshot the whole image so i took multiple screenshots that go together.
 
-<link src="homework-1/horiseon images/Screen Shot 2021-03-01 at 6.35.48 PM.png">
+<img src="homework-1/horiseon images/Screen Shot 2021-03-01 at 6.35.48 PM.png">
 
-<link src="homework-1/horiseon images/Screen Shot 2021-03-01 at 6.35.53 PM.png">
+<img src="homework-1/horiseon images/Screen Shot 2021-03-01 at 6.35.53 PM.png">
 
-<link src="homework-1/horiseon images/Screen Shot 2021-03-01 at 6.36.29 PM.png">
+<img src="homework-1/horiseon images/Screen Shot 2021-03-01 at 6.36.29 PM.png">
