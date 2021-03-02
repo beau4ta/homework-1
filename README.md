@@ -15,3 +15,5 @@
 # I couldn't find how to screenshot the whole image so i took multiple screenshots that go together.
 
 ![1of3](horiseonimages/screenshot1.png?raw=true "screenshot1")
+![2of3](horiseonimages/screenshot2.png?raw=true "screenshot2")
+![3of3](horiseonimages/screenshot3.png?raw=true "screenshot3")
